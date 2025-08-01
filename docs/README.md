@@ -91,4 +91,4 @@ If you’d like to support the project:
 - [Crowdin Translators](https://crowdin.com/project/kernelsu-next/members) – 💬 Thanks to everyone for helping make KernelSU Next multi-lingual!
 
 vdfgfd frghv
-fcgvvg gfdcc hfxcv huufch
+fcgvvg gfdcc hfxcv huufch hgvbytdc
